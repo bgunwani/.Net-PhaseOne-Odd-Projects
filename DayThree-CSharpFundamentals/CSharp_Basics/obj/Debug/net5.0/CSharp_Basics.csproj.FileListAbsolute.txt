@@ -1,0 +1,16 @@
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\bin\Debug\net5.0\CSharp_Basics.exe
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\bin\Debug\net5.0\CSharp_Basics.deps.json
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\bin\Debug\net5.0\CSharp_Basics.runtimeconfig.json
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\bin\Debug\net5.0\CSharp_Basics.runtimeconfig.dev.json
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\bin\Debug\net5.0\CSharp_Basics.dll
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\bin\Debug\net5.0\ref\CSharp_Basics.dll
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\bin\Debug\net5.0\CSharp_Basics.pdb
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\obj\Debug\net5.0\CSharp_Basics.csproj.AssemblyReference.cache
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\obj\Debug\net5.0\CSharp_Basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\obj\Debug\net5.0\CSharp_Basics.AssemblyInfoInputs.cache
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\obj\Debug\net5.0\CSharp_Basics.AssemblyInfo.cs
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\obj\Debug\net5.0\CSharp_Basics.csproj.CoreCompileInputs.cache
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\obj\Debug\net5.0\CSharp_Basics.dll
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\obj\Debug\net5.0\ref\CSharp_Basics.dll
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\obj\Debug\net5.0\CSharp_Basics.pdb
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Basics\obj\Debug\net5.0\CSharp_Basics.genruntimeconfig.cache

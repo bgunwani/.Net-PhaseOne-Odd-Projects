@@ -1,0 +1,15 @@
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\bin\Debug\net5.0\CSharp_Intermediate.exe
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\bin\Debug\net5.0\CSharp_Intermediate.deps.json
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\bin\Debug\net5.0\CSharp_Intermediate.runtimeconfig.json
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\bin\Debug\net5.0\CSharp_Intermediate.runtimeconfig.dev.json
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\bin\Debug\net5.0\CSharp_Intermediate.dll
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\bin\Debug\net5.0\ref\CSharp_Intermediate.dll
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\bin\Debug\net5.0\CSharp_Intermediate.pdb
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\obj\Debug\net5.0\CSharp_Intermediate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\obj\Debug\net5.0\CSharp_Intermediate.AssemblyInfoInputs.cache
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\obj\Debug\net5.0\CSharp_Intermediate.AssemblyInfo.cs
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\obj\Debug\net5.0\CSharp_Intermediate.csproj.CoreCompileInputs.cache
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\obj\Debug\net5.0\CSharp_Intermediate.dll
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\obj\Debug\net5.0\ref\CSharp_Intermediate.dll
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\obj\Debug\net5.0\CSharp_Intermediate.pdb
+C:\Users\bhawn\source\repos\DayThree-CSharpFundamentals\CSharp_Intermediate\obj\Debug\net5.0\CSharp_Intermediate.genruntimeconfig.cache
